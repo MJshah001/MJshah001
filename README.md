@@ -2,7 +2,7 @@
 
 ## Passionate about Data Science and Analytics.
 
-🔭 I'm currently pursuing a Masters Degree in Data Science.<br>🌱 I’m currently learning Advance SQL and Deep Learning.<br>👯 I’m looking to collaborate on end-to-end Data Engineering Projects.<br>💬 I’m a constant learner who doesn’t depend on specific tools<br>give me a problem, and I’ll master whatever is needed to solve it!<br>📫How to reach me : monilshah1109@gmail.com<br>😄Pronouns: He/Him.<br><br><br>
+🔭 I'm currently pursuing a Masters Degree in Data Science.<br>🌱 I’m currently learning Advance SQL and Deep Learning.<br>👯 I’m looking to collaborate on end-to-end Data Engineering Projects.<br>💬 I’m a constant learner who doesn’t depend on specific tools<br>💬 give me a problem, and I’ll master whatever is needed to solve it!<br>📫How to reach me : monilshah1109@gmail.com<br>😄Pronouns: He/Him.<br><br><br>
 
 
 ## 🌐 Socials:
