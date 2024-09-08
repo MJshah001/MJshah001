@@ -65,7 +65,7 @@ Complex problems? Bring them on! I love tackling the toughest tasks, and I alway
 
 ### 🥇 Azure Data Pipeline - Olympics Performance Analysis: [Repository](https://github.com/MJshah001/Olympics-Data-Analysis)
 <a href="https://github.com/MJshah001/Olympics-Data-Analysis">
-<img src="https://github.com/MJshah001/Olympics-Data-Analysis/blob/main/Resources/Project%20Architecture%20Tokyo%20Olympic%20Data%20Analytics.jpg" alt="Olympic Data Analysis" style="width: 80%; height: 60%;"/>
+<img src="https://github.com/MJshah001/Olympics-Data-Analysis/blob/main/Resources/Azure%20Project%20Architecture.jpg" alt="Olympic Data Analysis" style="width: 80%; height: 60%;"/>
 </a>
 
 ### 📶 Diversity and Inclusion - PWC Power Bi Virtual Experience Program: [Repository](https://github.com/MJshah001/PWC-BI-VIrtual-Internship)
