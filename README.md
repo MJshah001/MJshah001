@@ -53,7 +53,7 @@ Complex problems? Bring them on! I love tackling the toughest tasks, and I alway
 <img src="https://github.com/MJshah001/Flight-Price-Prediction/blob/master/screenshots/flight%20price%20prediction%20project%20architecture.jpg" alt="Flight Price Prediction" style="width: 80%; height: 50%;"/>
 </a>
 
-### 🏠 AWS Cloud Data Engineering - Zillow Property Insights Pipeline:  [Repository](https://github.com/MJshah001/Zillow-Data-Analytics)
+### 🏠 AWS Data Pipeline - Zillow Property Insights :  [Repository](https://github.com/MJshah001/Zillow-Data-Analytics)
 <a href="https://github.com/MJshah001/Flight-Price-Prediction/">
 <img src="https://github.com/MJshah001/Zillow-Data-Analytics/blob/main/ZIllow%20Data%20Pipeline%20Project%20Architecture.jpg" alt="Zillow Data Analytics" style="width: 80%; height: 50%;"/>
 </a>
@@ -63,12 +63,12 @@ Complex problems? Bring them on! I love tackling the toughest tasks, and I alway
 <img src="https://github.com/MJshah001/MelodySynth/blob/main/resources/model_architecture.png" alt="Melody Synth" style="width: 80%; height: 50%;"/>
 </a>
 
-### 🥇 Azure Data Engineering - Olympics Performance Analysis: [Repository](https://github.com/MJshah001/Olympics-Data-Analysis)
+### 🥇 Azure Data Pipeline - Olympics Performance Analysis: [Repository](https://github.com/MJshah001/Olympics-Data-Analysis)
 <a href="https://github.com/MJshah001/Olympics-Data-Analysis">
 <img src="https://github.com/MJshah001/Olympics-Data-Analysis/blob/main/Resources/Project%20Architecture%20Tokyo%20Olympic%20Data%20Analytics.jpg" alt="Olympic Data Analysis" style="width: 80%; height: 60%;"/>
 </a>
 
-### 📶 DIversity and Inclusion - PWC Power Bi Virtual Experience Program: [Repository](https://github.com/MJshah001/PWC-BI-VIrtual-Internship)
+### 📶 Diversity and Inclusion - PWC Power Bi Virtual Experience Program: [Repository](https://github.com/MJshah001/PWC-BI-VIrtual-Internship)
 <a href="https://github.com/MJshah001/PWC-BI-VIrtual-Internship">
 <img src="https://github.com/MJshah001/PWC-BI-VIrtual-Internship/blob/main/Diversity%20and%20Inclusion/Diversity-Inclusion-overview.png" alt="Power BI dashboard" style="width: 80%; height: 30%;"/>
 </a>
