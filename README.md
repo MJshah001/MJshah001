@@ -18,6 +18,7 @@ Complex problems? Bring them on! I love tackling the toughest tasks, and I alway
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MJshah001&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MJshah001&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<!--
 
 ## Checkout my Latest Projects:
 
@@ -41,7 +42,7 @@ Complex problems? Bring them on! I love tackling the toughest tasks, and I alway
   </tr>
 </table>
 
-
+-->
 
 
 
@@ -56,6 +57,13 @@ Complex problems? Bring them on! I love tackling the toughest tasks, and I alway
 <a href="https://github.com/MJshah001/Flight-Price-Prediction/">
 <img src="https://github.com/MJshah001/Zillow-Data-Analytics/blob/main/ZIllow%20Data%20Pipeline%20Project%20Architecture.jpg" alt="Zillow Data Analytics" style="width: 80%; height: 50%;"/>
 </a>
+
+### 🎶 MelodySynth - Melody Generation with Recurrent Neural Networks:  [Repository](https://github.com/MJshah001/MelodySynth)
+<a href="https://github.com/MJshah001/MelodySynth/">
+<img src="https://github.com/MJshah001/MelodySynth/blob/main/resources/model_architecture.png" alt="Melody Synth" style="width: 80%; height: 50%;"/>
+</a>
+
+
 
 ### 🥇 Azure Data Engineering - Olympics Performance Analysis: [Repository](https://github.com/MJshah001/Olympics-Data-Analysis)
 <a href="https://github.com/MJshah001/Olympics-Data-Analysis">
