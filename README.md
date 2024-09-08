@@ -18,22 +18,49 @@ Complex problems? Bring them on! I love tackling the toughest tasks, and I alway
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MJshah001&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MJshah001&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+## Checkout my Latest Projects:
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; padding: 0;">
+      <a href="https://github.com/MJshah001/Zillow-Data-Analytics">
+        <img src="https://github.com/MJshah001/Zillow-Data-Analytics/blob/main/ZIllow%20Data%20Pipeline%20Project%20Architecture.jpg" alt="Zillow Data Analytics" style="width: auto; height: auto;"/>
+      </a>
+    </td>
+    <td style="border: none; padding: 0;">
+      <a href="https://github.com/MJshah001/Flight-Price-Prediction/tree/master">
+        <img src="https://github.com/MJshah001/Flight-Price-Prediction/blob/master/screenshots/flight%20price%20prediction%20project%20architecture.jpg" alt="Flight Price Prediction" style="width: auto; height: auto;"/>
+      </a>
+    </td>
+    <td style="border: none; padding: 0;">
+      <a href="https://github.com/MJshah001/Olympics-Data-Analysis">
+        <img src="https://github.com/MJshah001/Olympics-Data-Analysis/blob/main/Resources/Project%20Architecture%20Tokyo%20Olympic%20Data%20Analytics.jpg" alt="Olympic Data Analysis" style="width: auto; height: auto;"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 ## 👩🏻‍💻 Checkout My Latest Projects:
 
 ### ✈️ Machine Learning with AWS SageMaker - Flight Price Prediction:  [Repository](https://github.com/MJshah001/Flight-Price-Prediction/tree/master)
-
+<a href="https://github.com/MJshah001/Zillow-Data-Analytics">
 <img src="https://github.com/MJshah001/Flight-Price-Prediction/blob/master/screenshots/flight%20price%20prediction%20project%20architecture.jpg" alt="Flight Price Prediction" style="width: 80%; height: 50%;"/>
+</a>
 
-
-### 🏠 Zillow Data Analytics:  [Repository](https://github.com/MJshah001/Zillow-Data-Analytics)
-
+### 🏠 AWS Cloud Data Engineering - Zillow Property Insights Pipeline:  [Repository](https://github.com/MJshah001/Zillow-Data-Analytics)
+<a href="https://github.com/MJshah001/Flight-Price-Prediction/">
 <img src="https://github.com/MJshah001/Zillow-Data-Analytics/blob/main/ZIllow%20Data%20Pipeline%20Project%20Architecture.jpg" alt="Zillow Data Analytics" style="width: 80%; height: 50%;"/>
+</a>
 
-
-### 🥇 Olympic Data Analysis: [Repository](https://github.com/MJshah001/Olympics-Data-Analysis)
-
+### 🥇 Azure Data Engineering - Olympics Performance Analysis: [Repository](https://github.com/MJshah001/Olympics-Data-Analysis)
+<a href="https://github.com/MJshah001/Olympics-Data-Analysis">
 <img src="https://github.com/MJshah001/Olympics-Data-Analysis/blob/main/Resources/Project%20Architecture%20Tokyo%20Olympic%20Data%20Analytics.jpg" alt="Olympic Data Analysis" style="width: 80%; height: 60%;"/>
-
+</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MJshah001&icon=0&color=0)](https://visitcount.itsvg.in)
