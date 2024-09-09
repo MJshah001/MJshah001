@@ -13,7 +13,7 @@ Complex problems? Bring them on! I love tackling the toughest tasks, and I alway
 -->
 
 ## 💻 Skills:
-- **Programming Languages **: Python | SQL | DAX | PySpark | Java 
+- **Programming Languages**: Python | SQL | DAX | PySpark | Java 
 - **Database**: MySQL | PostgreSQL | SQL Server | MongoDB
 - **Cloud**: AWS | Azure
 - **BI Tools**: Power BI | Tableu | Looker Studio | Excel
