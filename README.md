@@ -27,7 +27,7 @@ Complex problems? Bring them on! I love tackling the toughest tasks, and I alway
 
 <img align="right" alt="coding" width="375" height="250" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
-- **Programming **: Python | SQL | DAX | PySpark | Java 
+- **Programming**: Python | SQL | DAX | PySpark | Java 
 - **Database**: MySQL | PostgreSQL | SQL Server | MongoDB
 - **BI Tools**: Power BI | Tableu | Looker Studio | Excel
 - **Libraries**:  Pandas | Numpy | Matplotlib | Seaborn
@@ -35,8 +35,9 @@ Complex problems? Bring them on! I love tackling the toughest tasks, and I alway
 - **Cloud**: AWS | Azure
 - **Version Control**: Git | GitHub | Docker
 - **Development**: Streamlit | Flask | Django | Dash
+- **Data Skills**: Data Modelling | Data Warehounsing | ETL
 - **IDE**: Visual Studio Code | Pycharm | Jupyter Notebook
-- **Data Skills**: Data Modelling | Data Warehounsing | ETL | SSIS | SSAS
+
 
 
 <!--
