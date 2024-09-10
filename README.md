@@ -52,9 +52,17 @@ Complex problems? Bring them on! I love tackling the toughest tasks, and I alway
 -->
 
 ## 📊 GitHub Stats:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MJshah001&theme=dark&hide_border=false" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=MJshah001&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="40%" />
+<br/>
+
+
+<!--
+## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MJshah001&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=MJshah001&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 <br/>
+-->
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MJshah001&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 -->
