@@ -51,7 +51,7 @@ Complex problems? Bring them on! I love tackling the toughest tasks as I always 
 -->
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MJshah001&theme=dark&hide_border=false" width="48%" height="191.5" /> <img src="https://github-readme-stats.vercel.app/api?username=MJshah001&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="48%" height="191.5" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MJshah001&theme=dark&hide_border=false" width="45%" /> <img src="https://github-readme-stats.vercel.app/api?username=MJshah001&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="45%" />
 <br/>
 
 
