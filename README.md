@@ -18,7 +18,6 @@ Complex problems? Bring them on! I love tackling the toughest tasks as I always 
 </p>
 
 
-
 ## 💻 Skills:
 
 <p align="left"> 
