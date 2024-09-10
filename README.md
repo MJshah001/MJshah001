@@ -6,7 +6,7 @@
 <!--💬 I’m a constant learner who doesn’t depend on specific tools<br>💬 give me a problem, and I’ll master whatever is needed to solve it!<br> -->
 
 Complex problems? Bring them on! I love tackling the toughest tasks as I always push myself to go the extra mile.
-<br><br>
+<br>
 
 
 ## 🌐 Socials:
