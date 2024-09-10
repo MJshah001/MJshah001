@@ -100,7 +100,7 @@ Complex problems? Bring them on! I love tackling the toughest tasks as I always 
 </a>
 
 ### 🏠 AWS Data Pipeline - Zillow Property Insights :  [Repository](https://github.com/MJshah001/Zillow-Data-Analytics)
-<a href="https://github.com/MJshah001/Flight-Price-Prediction/">
+<a href="https://github.com/MJshah001/Zillow-Data-Analytics/">
 <img src="https://github.com/MJshah001/Zillow-Data-Analytics/blob/main/ZIllow%20Data%20Pipeline%20Project%20Architecture.jpg" alt="Zillow Data Analytics" style="width: 80%; height: 50%;"/>
 </a>
 
