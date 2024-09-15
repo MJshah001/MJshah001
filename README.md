@@ -123,13 +123,14 @@ Complex problems? Bring them on! I love tackling the toughest tasks as I always 
 <a href="https://github.com/MJshah001/PWC-BI-VIrtual-Internship">
 <img src="https://github.com/MJshah001/PWC-BI-VIrtual-Internship/blob/main/Diversity%20and%20Inclusion/Diversity-Inclusion-overview.png" alt="Power BI dashboard" style="width: 80%; height: 30%;"/>
 </a>
+<!--
 <a href="https://github.com/MJshah001/PWC-BI-VIrtual-Internship">
 <img src="https://github.com/MJshah001/PWC-BI-VIrtual-Internship/blob/main/Diversity%20and%20Inclusion/Diversity-Inclusion-KPIs-pg1.png" alt="Power BI Dashboard" style="width: 80%; height: 30%;"/>
 </a>
 <a href="https://github.com/MJshah001/PWC-BI-VIrtual-Internship">
 <img src="https://github.com/MJshah001/PWC-BI-VIrtual-Internship/blob/main/Diversity%20and%20Inclusion/Diversity-Inclusion-KPIs-pg2.png" alt="Power BI Dashboard" style="width: 80%; height: 30%;"/>
 </a>
-
+-->
 
 
 ---
