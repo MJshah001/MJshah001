@@ -7,6 +7,7 @@
 
 Complex problems? Bring them on! I love tackling the toughest tasks as I always push myself to go the extra mile.
 <br>
+[Resume](https://drive.google.com/file/d/1Q3yTe7cMYEYfpIkUzs0sPQ9CjCL3DS31/view?usp=drive_link)
 
 
 ## 🌐 Socials:
