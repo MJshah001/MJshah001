@@ -73,24 +73,26 @@ Complex problems? Bring them on! I love tackling the toughest tasks as I always 
 <img src="https://github.com/MJshah001/Realtime-Streaming/blob/main/Assets/Project%20Architecture%20Realtime%20Sentiment%20Analysis.jpg" alt="Realtime Sentiment Analysis" style="width: 80%; height: 50%;"/>
 </a>
 
-### 🤖 NL2SQL : Context Aware LangChain SQL Chatbot [Repository](https://github.com/MJshah001/NL2SQL_Langchain)
-<a href="https://github.com/MJshah001/NL2SQL_Langchain">
-<img src="https://github.com/MJshah001/NL2SQL_Langchain/blob/main/Resources/NL2SQL%20Application%20Diagram.jpg" alt="NL2SQL" style="width: 80%; height: 50%;"/>
-</a>
-
 ### 🏠 AWS Data Pipeline - Zillow Property Insights :  [Repository](https://github.com/MJshah001/Zillow-Data-Analytics)
 <a href="https://github.com/MJshah001/Zillow-Data-Analytics/">
 <img src="https://github.com/MJshah001/Zillow-Data-Analytics/blob/main/ZIllow%20Data%20Pipeline%20Project%20Architecture.jpg" alt="Zillow Data Analytics" style="width: 80%; height: 50%;"/>
 </a>
 
+<!--
 ### 🎶 MelodySynth - Melody Generation with Recurrent Neural Networks:  [Repository](https://github.com/MJshah001/MelodySynth)
 <a href="https://github.com/MJshah001/MelodySynth/">
 <img src="https://github.com/MJshah001/MelodySynth/blob/main/resources/model_architecture.png" alt="Melody Synth" style="width: 80%; height: 50%;"/>
 </a>
+-->
 
 ### 🥇 Azure Data Pipeline - Olympics Performance Analysis: [Repository](https://github.com/MJshah001/Olympics-Data-Analysis)
 <a href="https://github.com/MJshah001/Olympics-Data-Analysis">
 <img src="https://github.com/MJshah001/Olympics-Data-Analysis/blob/main/Resources/Azure%20Project%20Architecture.jpg" alt="Olympic Data Analysis" style="width: 80%; height: 60%;"/>
+</a>
+
+### 🤖 NL2SQL : Context Aware LangChain SQL Chatbot [Repository](https://github.com/MJshah001/NL2SQL_Langchain)
+<a href="https://github.com/MJshah001/NL2SQL_Langchain">
+<img src="https://github.com/MJshah001/NL2SQL_Langchain/blob/main/Resources/NL2SQL%20Application%20Diagram.jpg" alt="NL2SQL" style="width: 80%; height: 50%;"/>
 </a>
 
 ### 📶 Diversity and Inclusion - PWC Power Bi Virtual Experience Program: [Repository](https://github.com/MJshah001/PWC-BI-VIrtual-Internship)
