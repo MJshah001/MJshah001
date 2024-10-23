@@ -36,8 +36,8 @@ Complex problems? Bring them on! I love tackling the toughest tasks as I always 
 - **Database**: MySQL | PostgreSQL | SQL Server | MongoDB
 - **BI Tools**: Power BI | Tableu | Looker Studio | Excel
 - **Libraries**:  Pandas | Numpy | Matplotlib | Seaborn
-- **Frameworks**: Tensorflow | Keras | Scikit-Learn
-- **Data ENgineering**: Airflow | Kafka | Pypsark | SSIS 
+- **Frameworks**: Tensorflow | Keras | Scikit-Learn | Langchain
+- **Data Engineering**: Airflow | Kafka | Pypsark | SSIS 
 - **Cloud**: AWS | Azure
 - **Version Control**: Git | GitHub | Docker
 - **Development**: Streamlit | Flask | Django | Dash
