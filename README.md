@@ -64,7 +64,7 @@ Complex problems? Bring them on! I love tackling the toughest tasks as I always 
 ## 👩🏻‍💻 Checkout My Latest Projects:
 
 ### ✈️ Machine Learning with AWS SageMaker - Flight Price Prediction:  [Repository](https://github.com/MJshah001/Flight-Price-Prediction/tree/master)
-<a href="https://github.com/MJshah001/Zillow-Data-Analytics">
+<a href="https://github.com/MJshah001/Flight-Price-Prediction/tree/master">
 <img src="https://github.com/MJshah001/Flight-Price-Prediction/blob/master/screenshots/flight%20price%20prediction%20project%20architecture.jpg" alt="Flight Price Prediction" style="width: 80%; height: 50%;"/>
 </a>
 
