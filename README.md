@@ -90,6 +90,13 @@ Complex problems? Bring them on! I love tackling the toughest tasks as I always 
 <img src="https://github.com/MJshah001/Olympics-Data-Analysis/blob/main/Resources/Azure%20Project%20Architecture.jpg" alt="Olympic Data Analysis" style="width: 80%; height: 60%;"/>
 </a>
 
+
+### 🎶 MelodySynth - Melody Generation with Recurrent Neural Networks:  [Repository](https://github.com/MJshah001/MelodySynth)
+<a href="https://github.com/MJshah001/MelodySynth/">
+<img src="https://github.com/MJshah001/MelodySynth/blob/main/resources/model_architecture.png" alt="Melody Synth" style="width: 80%; height: 50%;"/>
+</a>
+
+
 ### 🤖 NL2SQL : Context Aware LangChain SQL Chatbot [Repository](https://github.com/MJshah001/NL2SQL_Langchain)
 <a href="https://github.com/MJshah001/NL2SQL_Langchain">
 <img src="https://github.com/MJshah001/NL2SQL_Langchain/blob/main/Resources/NL2SQL%20Application%20Diagram.jpg" alt="NL2SQL" style="width: 80%; height: 50%;"/>
