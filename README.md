@@ -102,6 +102,15 @@ Complex problems? Bring them on! I love tackling the toughest tasks as I always 
 <img src="https://github.com/MJshah001/NL2SQL_Langchain/blob/main/Resources/NL2SQL%20Application%20Diagram.jpg" alt="NL2SQL" style="width: 80%; height: 50%;"/>
 </a>
 
+### 💰 Financial Dashboard and Business Optimization for QSR [Repository](https://github.com/MJshah001/QSR-Financial-Dashboard)
+<a href="https://github.com/MJshah001/QSR-Financial-Dashboard/">
+<img src="https://github.com/user-attachments/assets/eb521ba2-f603-4fef-82be-a3a7ab1ed6df" style="width: 80%; height: 50%;"/>
+</a>
+<!-- <a href="https://github.com/MJshah001/QSR-Financial-Dashboard/">
+<img src="https://github.com/MJshah001/QSR-Financial-Dashboard/blob/main/Assets/Pareto%20Analysis.JPG" alt="Pareto" style="width: 80%; height: 50%;"/>
+</a> -->
+
+
 ### 📶 Diversity and Inclusion - PWC Power Bi Virtual Experience Program: [Repository](https://github.com/MJshah001/PWC-BI-VIrtual-Internship)
 <a href="https://github.com/MJshah001/PWC-BI-VIrtual-Internship">
 <img src="https://github.com/MJshah001/PWC-BI-VIrtual-Internship/blob/main/Diversity%20and%20Inclusion/Diversity-Inclusion-overview.png" alt="Power BI dashboard" style="width: 80%; height: 30%;"/>
